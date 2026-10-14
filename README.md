@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a fork of [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11). It adds one thing, a [visualization](visualization/apollo-11-explained.html) that explains what the code does in the context of the Apollo 11 mission.
+> This is a fork of [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11). It adds one thing, a [visualization](https://petros.github.io/Apollo-11/visualization/apollo-11-explained.html) that explains what the code does in the context of the Apollo 11 mission.
 
 # Apollo-11
 
